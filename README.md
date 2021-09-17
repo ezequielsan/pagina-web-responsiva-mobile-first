@@ -20,7 +20,7 @@ This is a one page website built to practice HTML, CSS and Javascript.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ezequielsan.github.io/pagina-web-responsiva-mobile-first](https://ezequielsan.github.io/pagina-web-responsiva-mobile-first)
 
 ## My process
 
